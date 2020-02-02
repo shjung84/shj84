@@ -25,22 +25,22 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : Seunghyun Jung
-  image             : https://bit.ly/2KCvgVJ
+  image             : https://image.dongascience.com/Photo/2018/12/2d5efe44bdd02f3e2ec4e99189d89d18.jpg
   behance           : Seunghyun Jung
 # dribbble          : your_username
   email             : seunghyun.jung.84@gmail.com
-  facebook          : your_userna
-  github            : your_username
+#  facebook          : your_userna
+#  github            : your_username
 # gitlab            : your_username
 # instagram         : your_username
-  linkedin          : your_username
-  medium            : your_username
+#  linkedin          : your_username
+#  medium            : your_username
 # soundcloud        : your_username
 # spotify           : your_username
 # stackoverflow     : your_user_id
 # tumblr            : your_username.tumblr.com
 # twitch            : your_username
-  twitter           : your_username
+#  twitter           : your_username
 # vimeo             : your_username
 # youtube           : your_channel_name
 
