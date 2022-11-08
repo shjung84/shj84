@@ -5,5 +5,5 @@ module.exports = defineConfig({
 
 module.exports = {
   // outputDir: "./docs",
-  publicPath: "/myPage/",
+  publicPath: "/pages/",
 };
